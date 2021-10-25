@@ -1,0 +1,13 @@
+C:\Users\home\source\repos\Homework - sum\Homework - sum\bin\Debug\netcoreapp3.1\Homework - sum.exe
+C:\Users\home\source\repos\Homework - sum\Homework - sum\bin\Debug\netcoreapp3.1\Homework - sum.deps.json
+C:\Users\home\source\repos\Homework - sum\Homework - sum\bin\Debug\netcoreapp3.1\Homework - sum.runtimeconfig.json
+C:\Users\home\source\repos\Homework - sum\Homework - sum\bin\Debug\netcoreapp3.1\Homework - sum.runtimeconfig.dev.json
+C:\Users\home\source\repos\Homework - sum\Homework - sum\bin\Debug\netcoreapp3.1\Homework - sum.dll
+C:\Users\home\source\repos\Homework - sum\Homework - sum\bin\Debug\netcoreapp3.1\Homework - sum.pdb
+C:\Users\home\source\repos\Homework - sum\Homework - sum\obj\Debug\netcoreapp3.1\Homework - sum.csprojAssemblyReference.cache
+C:\Users\home\source\repos\Homework - sum\Homework - sum\obj\Debug\netcoreapp3.1\Homework - sum.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\Homework - sum\Homework - sum\obj\Debug\netcoreapp3.1\Homework - sum.AssemblyInfo.cs
+C:\Users\home\source\repos\Homework - sum\Homework - sum\obj\Debug\netcoreapp3.1\Homework - sum.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\Homework - sum\Homework - sum\obj\Debug\netcoreapp3.1\Homework - sum.dll
+C:\Users\home\source\repos\Homework - sum\Homework - sum\obj\Debug\netcoreapp3.1\Homework - sum.pdb
+C:\Users\home\source\repos\Homework - sum\Homework - sum\obj\Debug\netcoreapp3.1\Homework - sum.genruntimeconfig.cache
