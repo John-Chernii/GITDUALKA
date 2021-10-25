@@ -1,0 +1,12 @@
+C:\Users\home\source\repos\Homework_DOC\Homework_DOC\bin\Debug\netcoreapp3.1\Homework_DOC.exe
+C:\Users\home\source\repos\Homework_DOC\Homework_DOC\bin\Debug\netcoreapp3.1\Homework_DOC.deps.json
+C:\Users\home\source\repos\Homework_DOC\Homework_DOC\bin\Debug\netcoreapp3.1\Homework_DOC.runtimeconfig.json
+C:\Users\home\source\repos\Homework_DOC\Homework_DOC\bin\Debug\netcoreapp3.1\Homework_DOC.runtimeconfig.dev.json
+C:\Users\home\source\repos\Homework_DOC\Homework_DOC\bin\Debug\netcoreapp3.1\Homework_DOC.dll
+C:\Users\home\source\repos\Homework_DOC\Homework_DOC\bin\Debug\netcoreapp3.1\Homework_DOC.pdb
+C:\Users\home\source\repos\Homework_DOC\Homework_DOC\obj\Debug\netcoreapp3.1\Homework_DOC.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\Homework_DOC\Homework_DOC\obj\Debug\netcoreapp3.1\Homework_DOC.AssemblyInfo.cs
+C:\Users\home\source\repos\Homework_DOC\Homework_DOC\obj\Debug\netcoreapp3.1\Homework_DOC.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\Homework_DOC\Homework_DOC\obj\Debug\netcoreapp3.1\Homework_DOC.dll
+C:\Users\home\source\repos\Homework_DOC\Homework_DOC\obj\Debug\netcoreapp3.1\Homework_DOC.pdb
+C:\Users\home\source\repos\Homework_DOC\Homework_DOC\obj\Debug\netcoreapp3.1\Homework_DOC.genruntimeconfig.cache
