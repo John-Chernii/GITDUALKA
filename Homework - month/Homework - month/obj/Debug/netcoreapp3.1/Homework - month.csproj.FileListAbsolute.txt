@@ -1,0 +1,13 @@
+C:\Users\home\source\repos\Homework - month\Homework - month\bin\Debug\netcoreapp3.1\Homework - month.exe
+C:\Users\home\source\repos\Homework - month\Homework - month\bin\Debug\netcoreapp3.1\Homework - month.deps.json
+C:\Users\home\source\repos\Homework - month\Homework - month\bin\Debug\netcoreapp3.1\Homework - month.runtimeconfig.json
+C:\Users\home\source\repos\Homework - month\Homework - month\bin\Debug\netcoreapp3.1\Homework - month.runtimeconfig.dev.json
+C:\Users\home\source\repos\Homework - month\Homework - month\bin\Debug\netcoreapp3.1\Homework - month.dll
+C:\Users\home\source\repos\Homework - month\Homework - month\bin\Debug\netcoreapp3.1\Homework - month.pdb
+C:\Users\home\source\repos\Homework - month\Homework - month\obj\Debug\netcoreapp3.1\Homework - month.csprojAssemblyReference.cache
+C:\Users\home\source\repos\Homework - month\Homework - month\obj\Debug\netcoreapp3.1\Homework - month.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\Homework - month\Homework - month\obj\Debug\netcoreapp3.1\Homework - month.AssemblyInfo.cs
+C:\Users\home\source\repos\Homework - month\Homework - month\obj\Debug\netcoreapp3.1\Homework - month.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\Homework - month\Homework - month\obj\Debug\netcoreapp3.1\Homework - month.dll
+C:\Users\home\source\repos\Homework - month\Homework - month\obj\Debug\netcoreapp3.1\Homework - month.pdb
+C:\Users\home\source\repos\Homework - month\Homework - month\obj\Debug\netcoreapp3.1\Homework - month.genruntimeconfig.cache
